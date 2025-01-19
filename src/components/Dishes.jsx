@@ -10,7 +10,7 @@ const Dishes = () => {
                 Our Dishes
             </h2>
 
-            <div className="grid grid-cols-1 gap-8 md:grid-cols-5">
+            <div className="grid grid-cols-1  gap-8 md:grid-cols-3 lg:grid-cols-5">
                 {DISHES.map((project,index) => {
                     return(
                         <DishCard key={index} project = {project}/>

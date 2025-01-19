@@ -62,8 +62,8 @@ export const DISHES = [
   },
   {
     image: dish8,
-    title: "Peking Duck",
-    description: "Crispy duck with pancakes, cucumber, and hoisin sauce",
+    title: "Panner Tikka Masala",
+    description: "Grilled paneer in spicy onion tomato gravy. ",
   },
   {
     image: dish9,
@@ -81,7 +81,7 @@ export const DISHES = [
 export const ABOUT = {
   header: "We love cooking!",
   content:
-    "At Restaura, we believe that great food goes beyond taste; it tells a story of dedication and creativity. From our chef's signature creations to our attentive service, every detail is curated to ensure your visit is nothing short of exceptional. Whether you're savoring our renowned Tikka Kebab or exploring our diverse menu inspired by global flavors, each dish is a celebration of flavor and innovation. Join us for a culinary journey where every bite leaves a lasting impression. Experience Restaura—where every meal is a masterpiece.",
+    "At Desi Grill, we offer a unique fusion of authentic Indian, Italian, and Japanese cuisines, blending bold flavors and timeless traditions. Our menu features everything from aromatic Indian tandoori dishes, to comforting Italian pasta, to delicate and fresh Japanese sushi. Each dish is carefully crafted using the finest ingredients, ensuring a memorable dining experience with every bite. Whether you're a fan of spice, savory, or subtle flavors, Desi Grill promises a culinary journey like no other. Join us for a fusion of tastes, where tradition and innovation come together in perfect harmony.",
 };
 
 export const MISSION =

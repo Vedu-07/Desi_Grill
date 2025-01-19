@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="absolute inset-0 -z-10 bg-gradient-to-b  from-transparent from-50% to-black"></div>
 
             <div className="relative z-20 flex h-screen flex-col justify-end pb-5">
-                <p className="font-samarkan w-full p-4 text-[13rem] text-gray-50">Desi Grill</p>
+                <p className="font-samarkan w-full p-4 text-7xl md:text-9xl lg:text-[13rem] text-gray-50">Desi Grill</p>
                 <p className="text-gray-100 w-full mx-auto flex justify-center">Texas</p>
             </div>
 
