@@ -27,13 +27,13 @@ export const LINKS = [
 export const DISHES = [
   {
     image: dish1,
-    title: "Spaghetti Carbonara",
-    description: "Creamy pasta with bacon and cheese",
+    title: "Desi Pakoda",
+    description: "Crispy Indian fritters made with chickpea flour and veggies.",
   },
   {
     image: dish2,
-    title: "Chicken Tikka Masala",
-    description: "Indian curry with tender chicken in spicy sauce",
+    title: "White Sauce Pasta",
+    description: "Creamy pasta in a cheesy white sauce.",
   },
   {
     image: dish3,
@@ -42,13 +42,13 @@ export const DISHES = [
   },
   {
     image: dish4,
-    title: "Sushi Roll",
-    description: "Assorted seafood and vegetables wrapped in seaweed and rice",
+    title: "Chicken Lollipop",
+    description: "Spicy, crispy chicken wings shaped like lollipops",
   },
   {
     image: dish5,
-    title: "Chocolate Lava Cake",
-    description: "Decadent chocolate cake with a gooey center",
+    title: "Dalcha Rice",
+    description: "Lentil stew served with fragrant rice.",
   },
   {
     image: dish6,
@@ -67,14 +67,14 @@ export const DISHES = [
   },
   {
     image: dish9,
-    title: "Beef Wellington",
-    description: "Tender beef filet wrapped in pastry with mushrooms and herbs",
+    title: "Chicken Ramen",
+    description: "Noodles in savory chicken broth with toppings.",
   },
   {
     image: dish10,
-    title: "Tiramisu",
+    title: "Dazzling Noodles",
     description:
-      "Italian dessert with layers of coffee-soaked biscuits and mascarpone",
+      "Stir-fried noodles with veggies and savory sauce.",
   },
 ];
 

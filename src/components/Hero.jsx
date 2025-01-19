@@ -13,9 +13,9 @@ const Hero = () => {
 
             <div className="relative z-20 flex h-screen flex-col justify-end pb-5">
                 <p className="font-samarkan w-full p-4 text-[13rem] text-gray-50">Desi Grill</p>
-                <p className="text-gray-100 w-full mx-auto flex justify-center">Pune</p>
+                <p className="text-gray-100 w-full mx-auto flex justify-center">Texas</p>
             </div>
-            
+
         </section>
         </> 
     )
