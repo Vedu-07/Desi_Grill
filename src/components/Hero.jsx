@@ -15,6 +15,7 @@ const Hero = () => {
                 <p className="font-samarkan w-full p-4 text-[13rem] text-gray-50">Desi Grill</p>
                 <p className="text-gray-100 w-full mx-auto flex justify-center">Pune</p>
             </div>
+            
         </section>
         </> 
     )

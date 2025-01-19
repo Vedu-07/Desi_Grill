@@ -1,8 +1,8 @@
-import dish1 from "../assets/dish1.jpeg";
-import dish2 from "../assets/dish2.jpeg";
+import dish1 from "../assets/dish1.jpg";
+import dish2 from "../assets/dish2.jpg";
 import dish3 from "../assets/dish3.jpeg";
-import dish4 from "../assets/dish4.jpeg";
-import dish5 from "../assets/dish5.jpeg";
+import dish4 from "../assets/dish4.jpg";
+import dish5 from "../assets/dish5.jpg";
 import dish6 from "../assets/dish6.jpeg";
 import dish7 from "../assets/dish7.jpeg";
 import dish8 from "../assets/dish8.jpeg";
@@ -127,15 +127,15 @@ export const CONTACT = [
 export const SOCIAL_MEDIA_LINKS = [
   {
     href: "https://x.com/",
-    icon: <FaFacebook fontSize={30} className="hover:opacity-80" />,
+    icon: FaFacebook,  // Just reference the icon component here
   },
 
   {
     href: "https://x.com/",
-    icon: <FaInstagram fontSize={30} className="hover:opacity-80" />,
+    icon: FaInstagram,  // Just reference the icon component here
   },
   {
     href: "https://x.com/",
-    icon: <FaXTwitter fontSize={30} className="hover:opacity-80" />,
+    icon: FaXTwitter,  // Just reference the icon component here
   },
 ];
