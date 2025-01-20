@@ -22,12 +22,22 @@ const Navbar = () => {
         setisMobileMenuOpen(false);
     }
 
+    const scrollToTop = (event) => {
+        event.preventDefault();
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    }
+
     return(
         <>
         <nav className="fixed top-4 flex w-full flex-col items-center justify-center z-30">
 
                 <div className=" flex w-full items-center justify-between overflow-y-hidden p-4 backdrop-blur-2xl lg:m-2 lg:w-[50rem] lg:rounded-full lg:shadow-lg">
-                    <div className="font-samarkan text-xl cursor-pointer">Desi Grill</div>
+                    <div 
+                    onClick={scrollToTop}
+                    className="font-samarkan text-xl cursor-pointer">Desi Grill</div>
                     <div className="hidden space-x-6 lg:flex">
                     {LINKS.map((link,index) => {
                         return (<a 

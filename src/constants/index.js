@@ -1,13 +1,25 @@
-import dish1 from "../assets/dish1.jpg";
-import dish2 from "../assets/dish2.jpg";
-import dish3 from "../assets/dish3.jpeg";
-import dish4 from "../assets/dish4.jpg";
-import dish5 from "../assets/dish5.jpg";
-import dish6 from "../assets/dish6.jpeg";
-import dish7 from "../assets/dish7.jpeg";
-import dish8 from "../assets/dish8.jpeg";
-import dish9 from "../assets/dish9.jpeg";
-import dish10 from "../assets/dish10.jpeg";
+// import dish1 from "../assets/dish1.jpg";
+// import dish2 from "../assets/dish2.jpg";
+// import dish3 from "../assets/dish3.jpeg";
+// import dish4 from "../assets/dish4.jpg";
+// import dish5 from "../assets/dish5.jpg";
+// import dish6 from "../assets/dish6.jpeg";
+// import dish7 from "../assets/dish7.jpeg";
+// import dish8 from "../assets/dish8.jpeg";
+// import dish9 from "../assets/dish9.jpeg";
+// import dish10 from "../assets/dish10.jpeg";
+
+import dish1 from "../assets/dish1.webp"
+import dish2 from "../assets/dish2.webp"
+import dish3 from "../assets/dish3.webp"
+import dish4 from "../assets/dish4.webp"
+import dish5 from "../assets/dish5.webp"
+import dish6 from "../assets/dish6.webp"
+import dish7 from "../assets/dish7.webp"
+import dish8 from "../assets/dish8.webp"
+import dish9 from "../assets/dish9.webp"
+import dish10 from "../assets/dish10.webp"
+
 
 import italian from "../assets/italian.jpeg";
 import japanese from "../assets/japanese.jpeg";
