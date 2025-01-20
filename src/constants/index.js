@@ -113,30 +113,30 @@ export const CUISINE = [
 ];
 
 export const REVIEW = {
-  name: "Xaviour Fernando",
+  name: "John D'Souza",
   profession: "Food Critic",
   content:
-    "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
+    "“Desi Grill, with its inviting atmosphere, offers a unique blend of authentic Indian, Italian, and Japanese dishes. Each bite is a perfect balance of flavors, from the rich spices of India to the delicate tastes of Italy and Japan. A truly memorable dining experience that exceeds expectations.”",
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
+  { key: "address", value: "Address: 123 Main Street, Austin, Texas, 345678" },
   { key: "phone", value: "Phone: 123-456-7890" },
-  { key: "email", value: "Email: contact@restaurant.com" },
+  { key: "email", value: "Email: contact@desigrill.com" },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
-    icon: FaFacebook,  // Just reference the icon component here
+    href: "https://facebook.com/",
+    icon: FaFacebook,  
   },
 
   {
-    href: "https://x.com/",
-    icon: FaInstagram,  // Just reference the icon component here
+    href: "https://instagram.com/",
+    icon: FaInstagram,  
   },
   {
     href: "https://x.com/",
-    icon: FaXTwitter,  // Just reference the icon component here
+    icon: FaXTwitter,  // 
   },
 ];
