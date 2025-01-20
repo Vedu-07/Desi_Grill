@@ -85,7 +85,7 @@ export const ABOUT = {
 };
 
 export const MISSION =
-  "At our restaurant, our mission is to create delicious and memorable dining experiences.";
+  "At Desi Grill, We thrive to create delicious and memorable dining experiences.";
 
 export const CUSINES = [
   {
