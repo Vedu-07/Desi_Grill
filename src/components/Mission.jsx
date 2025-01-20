@@ -5,7 +5,7 @@ import { MISSION } from "../constants";
 const Mission = () => {
     return (
         <>
-            <section id="mission">
+            <section id="mission" className="mb-16">
                 <div className="container mx-auto text-center">
                     <h2 className=" mb-8 text-3xl lg:text-4xl">
                         Our Mission

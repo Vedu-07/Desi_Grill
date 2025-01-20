@@ -87,28 +87,29 @@ export const ABOUT = {
 export const MISSION =
   "At Desi Grill, We thrive to create delicious and memorable dining experiences.";
 
-export const CUSINES = [
+export const CUISINE = [
   {
     number: "01.",
+    image: indian,
+    title: "Indian",
+    description:
+      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
+  },
+  {
+    number: "02.",
     image: italian,
     title: "Italian",
     description:
       "Experience the flavors of Italy with our exquisite Italian cuisine, featuring traditional recipes and contemporary dishes.",
   },
   {
-    number: "02.",
+    number: "03.",
     image: japanese,
     title: "Japanese",
     description:
       "Delight in the art of Japanese culinary excellence, offering a fusion of classic and modern flavors.",
   },
-  {
-    number: "03.",
-    image: indian,
-    title: "Indian",
-    description:
-      "Indulge in the rich and diverse tastes of India, with a menu that celebrates the country's culinary heritage.",
-  },
+
 ];
 
 export const REVIEW = {
